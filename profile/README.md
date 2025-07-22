@@ -28,13 +28,13 @@
 ## 구별 총 인구수 대비 고령 인구 수 비율
 <img width="1002" height="555" alt="image" src="https://github.com/user-attachments/assets/d7466632-79f6-4435-9328-e865b6cfca9d" />
 
-### 분석 결과
+## 분석 결과
 <img width="660" height="348" alt="image" src="https://github.com/user-attachments/assets/39ae2b1b-79bb-40dd-a9d3-2138cbc4f6f9" />
 <img width="653" height="348" alt="image" src="https://github.com/user-attachments/assets/ef6c5bfd-f637-43eb-a1d6-6270df3082e5" />
 <img width="647" height="339" alt="image" src="https://github.com/user-attachments/assets/bf6ec3c3-f5b9-45d6-807c-e4e9ede64609" />
 
 
-### 최종 분석 결과
+## 최종 분석 결과
 <img width="659" height="369" alt="image" src="https://github.com/user-attachments/assets/49fdfd04-0073-405f-9a6d-00c6ee178823" />
 
 
